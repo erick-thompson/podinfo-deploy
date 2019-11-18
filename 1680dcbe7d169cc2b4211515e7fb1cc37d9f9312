@@ -1,0 +1,1 @@
+{"jobID":"b6ae6dd3-6174-7420-ccdd-e00b45438463","spec":{"type":"policy","cause":{"Message":"","User":"Erick Thompson \u003cerick.thompson@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}

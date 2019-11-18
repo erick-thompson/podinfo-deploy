@@ -7,6 +7,7 @@ metadata:
   annotations:
     flux.weave.works/tag.podinfod: semver:>3.0.0
     flux.weave.works/automated: 'true'
+    doesthiswork: 'maybe'
 spec:
   replicas: 5
   selector:
